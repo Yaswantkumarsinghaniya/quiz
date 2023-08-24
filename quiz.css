@@ -1,0 +1,47 @@
+*{
+ padding:0;
+ margin:0;
+ box-sizing:border-box;
+}
+.main{
+ width:100%;
+ height:100vh;
+}
+.row{
+ width:100%;
+ height:100%;
+ background:aqua;
+ display:flex;
+ justify-content:center;
+ align-items:center;
+}
+#overlay{
+ width:30rem;
+ background:white;
+ padding:10px;
+}
+.overlay div{
+ margin:10px;
+ }
+button{
+ width:100%;
+ border-radius:20px;
+ background:aqua;
+ color:red;
+ font-size:30px;
+}
+#overlay div{
+
+padding:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
